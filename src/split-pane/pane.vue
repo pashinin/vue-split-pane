@@ -22,27 +22,27 @@
 
 <style scoped>
 .splitter-pane.vertical.splitter-paneL {
-  position: absolute;
+  position: relative;
   left: 0px;
   height: 100%;
   padding-right: 3px;
 }
 
 .splitter-pane.vertical.splitter-paneR {
-  position: absolute;
+  position: relative;
   right: 0px;
   height: 100%;
   padding-left: 3px;
 }
 
 .splitter-pane.horizontal.splitter-paneL {
-  position: absolute;
+  position: relative;
   top: 0px;
   width: 100%;
 }
 
 .splitter-pane.horizontal.splitter-paneR {
-  position: absolute;
+  position: relative;
   bottom: 0px;
   width: 100%;
   padding-top: 3px;
