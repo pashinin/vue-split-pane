@@ -20,7 +20,7 @@
   }
 </script>
 
-<style>
+<style scoped>
 .splitter-pane.vertical.splitter-paneL {
   position: absolute;
   left: 0px;
